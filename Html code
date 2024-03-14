@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Avaesa Assignment</title>
+    <link rel="stylesheet" href="C:\Users\venka\OneDrive\Desktop\Avaesa\Avaesa.css" >
+</head>
+<body>
+    <header>
+    <h1><b>2 week online course for the aspirant journalists</b></h1>
+    <div>
+        <h2>Explore the world of Journalism with Mr. Arun</h2>
+        <p>Are you passionate about uncovering truth, telling stories, and making a difference? Join Mr. Arun, a seasoned journalist with decades of experience, on a transformative journey into the heart of Journalism</p>
+    </div>
+    <div>
+    <h2>About Mr. Arun</h2>
+        <img src="C:\Users\venka\OneDrive\Desktop\Avaesa\arun.jpg" alt="Mr. Arun" height="250px" width="350px">
+        <p>With a career spanning over 40 years in the industry, Mr. Arun has been at the forefront of investigative journalism, shinning a light on important issues and shapping public discourse. His work has been recognized globally, earning him numerous awards and accolades</p>
+    </div>
+    </header>
+    <main>
+    <div>
+        <h2>The Course insider insights for Aspiring Journalists</h2>
+        <p>In this exclusive 2-week online course, Mr. Arun will share his wealth of knowledge and expertise, offering practical insights and invaluable lessons for aspiring journalists. From navigating athical dilemmas to mastering the art of storytelling, participants will gain the tools and confidence to thrive in today's rapidly evolving media landscape.</p>
+    </div>
+    <div>
+        <h2>What You'll Learn</h2>
+        <ul>
+            <li><b><h3>Crafting Compelling Narratives:</h3></b>Learn how to capture attention and convey complex ideas through powerful storytelling techniques.</li>
+            <li><b><h3>Ethics in Journalism:</h3></b>Explore the ethical considerations and responsibilities inherent in journalism, and how to navigate them with integrity.</li>
+            <li><b><h3>Investigative Reporting:</h3></b>Master the skills needed to uncover hidden truths, conduct thorough research, and hold power to account.</li>
+            <li><b><h3>Digital Journalism:</h3></b>Embrace the latest digital tools and platforms to enhance your reporting and reach a wider audience.</li>
+            <li><b><h3>Building Your Brand:</h3></b>Discover strategies for building your personal brand as a journalist and establishing credibility in a competitive industry.</li>
+        </ul>
+    </div>
+    <div>
+        <h2>Why Choose Mr. Arun's Course?</h2>
+        <ul>
+            <li><b><h3>Real-World Insights:</h3></b>Benefit from Mr. Arun's firsthand experiences and learn from real-world case studies.</li>
+            <li><b><h3>Interactive Learning:</h3></b>Engage in dynamic discussions, practical exercises, and personalized feedback to accelerate your learning.</li>
+            <li><b><h3>Networking Opportunities:</h3></b> Connect with like-minded peers and industry professionals, building valuable relationships for your future career.</li>
+            <li><b><h3>Lifetime Access:</h3></b>Gain lifetime access to course materials, updates, and exclusive resources to support your ongoing growth and development.</li>
+        </ul>
+    </div>
+    <div>
+        <h2> Join Us Today</h2>
+        <ul>
+            <li>Don't miss this opportunity to learn from one of the industry's most respected figures. Whether you're a budding journalist or seasoned professional looking to sharpen your skills, Mr. Arun's course offers invaluable insights and inspiration to help you succeed in the world of journalism.</li>
+            <li>Enroll now and embark on your journey to becoming a fearless storyteller and changemaker.</li>
+        </ul>
+    </div>
+    <div>
+        <p><b>Enrollement Starts from 14-03-2014</b></p>
+        <p><b>Limited Slots available </b></p>
+        <button>Enroll Now</button>
+    </div>
+    </main>
+    <br>
+    <div>
+        <nav>
+            <h4>Know more about jornalism <a href="https://en.wikipedia.org/wiki/Journalism">Journalism wikipedia</a></h4>
+        </nav>
+    </div>
+    <hr>
+    <div>
+        <footer>Contact Information | Social Media Links | Copyright &copy; 2024 Unveiling Journalism with Mr. Arun. All Rights Reserved.</footer>
+    </div>
+    <br>
+    
+</body>
+</html>
