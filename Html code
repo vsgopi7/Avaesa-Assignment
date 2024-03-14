@@ -51,8 +51,8 @@
         </ul>
     </div>
     <div>
-        <p><b>Enrollement Starts from 14-03-2014</b></p>
-        <p><b>Limited Slots available </b></p>
+        <h4><b>Enrollement Starts from 14-03-2014</b></h4>
+        <h4><b>Limited Slots available </b></h4>
         <button>Enroll Now</button>
     </div>
     </main>
