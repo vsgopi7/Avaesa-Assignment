@@ -1,8 +1,8 @@
 h1{
-    text-decoration: underline;
     text-align: center;
-    text-transform: capitalize;
+    text-transform:uppercase;
     color: #FF204E;
+    font-weight: bolder;
 }
 h3{
     color: #A0153E;
@@ -23,4 +23,5 @@ li{
     color: #00224D;
     font-weight: 500;
 }
+
 
