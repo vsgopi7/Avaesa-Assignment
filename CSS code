@@ -1,0 +1,24 @@
+h1{
+    text-decoration: underline;
+    text-align: center;
+    text-transform: capitalize;
+    color: #FF204E;
+}
+h3{
+    color: #A0153E;
+}
+b{
+    color: #5D0E41;
+}
+button:hover{
+
+    color: antiquewhite;
+    background-color: palevioletred;
+
+}
+*{
+    background-color: lightcyan;
+}
+li{
+    color: #00224D;
+}
