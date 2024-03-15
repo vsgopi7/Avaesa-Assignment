@@ -3,6 +3,7 @@ h1{
     text-transform:uppercase;
     color: #FF204E;
     font-weight: bolder;
+    border-radius: 30px;
 }
 h3{
     color: #A0153E;
@@ -10,14 +11,23 @@ h3{
 b{
     color: #5D0E41;
 }
+button{
+    border-style: dashed;
+}
 button:hover{
 
     color: antiquewhite;
     background-color: palevioletred;
+    
 
 }
 *{
     background-color: lightcyan;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+
 }
 li{
     color: #00224D;
@@ -75,6 +85,7 @@ footer {
     color: #fff; 
     padding: 20px;
     text-align: center;
+    border-radius: 10px;
 }
 
 
@@ -88,6 +99,8 @@ nav a:hover {
     text-decoration: underline;
     color: #FF69B4;
 }
+
+
 @media only screen and (max-width: 768px) {
     header h1 {
         font-size: 24px;
@@ -99,11 +112,3 @@ nav a:hover {
         font-size: 20px;
     }
 }
-
-
-
-
-
-
-
-
